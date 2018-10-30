@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.6.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/JAVA/project/book/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/project/book/lib/aspectjweaver-1.8.7.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/project/book/lib/c3p0-0.9.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/project/book/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/project/book/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/project/book/lib/mchange-commons-java-0.2.3.4.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/project/book/lib/mysql-connector-java-5.1.6.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/project/book/lib/mysql-jdbc.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/project/book/lib/spring-aop-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/project/book/lib/spring-aspects-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/project/book/lib/spring-beans-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/project/book/lib/spring-context-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/project/book/lib/spring-core-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/project/book/lib/spring-expression-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/project/book/lib/spring-jdbc-3.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/project/book/lib/spring-jdbc-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/project/book/lib/spring-tx-3.2.4.RELEASE.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
